@@ -11,7 +11,7 @@ function cargarTabla(csv) {
   const filas = csv.split("\n").slice(1);
 
   filas.forEach(fila => {
-    const col = fila.split(";");
+    const col = fila.split(",");
 
     if (col.length >= 4) {
       const tr = document.createElement("tr");
