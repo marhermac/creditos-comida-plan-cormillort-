@@ -30,17 +30,19 @@ fetch("creditos_alimentos.csv")
 
 // Buscar
 input.addEventListener("input", () => {
+  cerrarPopup(); // 👈 ESTA es la clave
+
   const texto = input.value.toLowerCase();
-
-  // 👇 CERRAR popup al iniciar nueva búsqueda
-  popup.style.display = "none";
-
   tbody.innerHTML = "";
   if (texto === "") return;
 
   datos
     .filter(d => d.alimento.toLowerCase().includes(texto))
     .forEach(d => {
+      ...
+    });
+});
+
       const tr = document.createElement("tr");
 
       const bgColor =
@@ -104,4 +106,8 @@ function mostrarPopup(dato, color) {
   `;
   popup.style.background = color;
   popup.style.display = "block";
+}
+function cerrarPopup() {
+  popup.style.display = "none";
+  popup.innerHTML = "";
 }
