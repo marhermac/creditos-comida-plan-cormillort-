@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Buscador en Tabla</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Buscador de palabras</h2>
+
+<input 
+  type="text" 
+  id="searchInput" 
+  placeholder="Escribí una letra..."
+  list="suggestions"
+/>
+
+<datalist id="suggestions"></datalist>
+
+<table id="dataTable">
+  <thead>
+    <tr>
+      <th>Palabra</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manzana</td>
+      <td>Fruta roja</td>
+    </tr>
+    <tr>
+      <td>Banana</td>
+      <td>Fruta amarilla</td>
+    </tr>
+    <tr>
+      <td>Naranja</td>
+      <td>Fruta cítrica</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Modal -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <span id="close">&times;</span>
+    <p id="modalText"></p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
