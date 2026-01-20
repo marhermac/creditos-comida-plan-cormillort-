@@ -9,7 +9,7 @@ const close = document.getElementById("close");
 let alimentos = [];
 
 // 🔹 Cargar CSV
-fetch("creditos_alimentos.cvs")
+fetch("creditos_alimentos.csv")
   .then(res => res.text())
   .then(texto => cargarDatos(texto))
   .catch(err => console.error("Error al cargar el archivo:", err));
@@ -87,4 +87,5 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
 
