@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Buscador de Créditos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Buscador de créditos de alimentos</h2>
+
+<p class="descripcion">
+  Escribí el nombre del alimento para ver sus créditos.
+</p>
+
+<input
+  type="text"
+  id="searchInput"
+  placeholder="Buscar alimento..."
+>
+
+<button id="clearBtn">Limpiar</button>
+
+<table id="dataTable">
+  <thead>
+    <tr>
+      <th>Alimento</th>
+      <th>Porción</th>
+      <th>Crédito por porción</th>
+      <th>Crédito por 100g</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Se carga desde CSV -->
+  </tbody>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>
