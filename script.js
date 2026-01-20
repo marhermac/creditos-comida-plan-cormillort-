@@ -5,7 +5,7 @@ const clearBtn = document.getElementById("clearBtn");
 const tbody = document.querySelector("#dataTable tbody");
 
 // Cargar CSV
-fetch("creditos_alimentos3.csv")
+fetch("creditos_alimentos.csv")
   .then(res => res.text())
   .then(texto => {
     const lineas = texto.trim().split("\n");
