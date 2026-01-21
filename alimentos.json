@@ -1,0 +1,5360 @@
+[
+  {
+    "nombre": "abadejo",
+    "porcion": "1 filet grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de canola",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de girasol",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aceite de Girasol uva y maíz",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de girasol uva y maíz",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de maní",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de oliva",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aceite de Oliva y Soja",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de soja",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite de uva",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceite mezcla",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aceituna Negra",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aceituna verde",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceitunas negras",
+    "porcion": "1 unidad (aprox. 5 gr )",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceitunas verdes",
+    "porcion": "1 unidad (aprox. 5 gr )",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "acelga",
+    "porcion": "1 taza de té en cocido (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aceto balsamico",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aceto balsámico",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "achicoria",
+    "porcion": "1 plato de postre (aprox 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Actimel 0% grasa y colesterol",
+    "porcion": "1 potecito de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Actimel común",
+    "porcion": "1 potecito de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Activia",
+    "porcion": "1 pote de 200 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aderezo a base de hierbas light",
+    "porcion": "1 vaso (150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aderezo light para ensalada",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Aderezo light para ensaladas",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "agar agar",
+    "porcion": "1 cdta café",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "agua saborizada",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "agua saborizada 0%",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "agua saborizada baja en azúcar",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "agua tónica",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ají",
+    "porcion": "1 unidad chica (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ají morrón",
+    "porcion": "1 unidad chica (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ajo",
+    "porcion": "1 diente",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "albóndiga de carne magra",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alcaucil",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor chico El Rosario",
+    "porcion": "1 unidad de 35 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor choco-arroz (marca Deli light)",
+    "porcion": "1 unidad de 26 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor de dulce de leche",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor de dulce de leche blanco",
+    "porcion": "1 unidad (aprox. 50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor de dulce de leche c/ baño",
+    "porcion": "1 unidad (aprox 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor de dulce de leche c/ chocolate",
+    "porcion": "1 unidad (aprox 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Alfajor de Dulce de leche con chocolate",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor de maicena",
+    "porcion": "1 unidad (aprox. 50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor light (Cormillot)",
+    "porcion": "1 unidad (aprox. 42 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Alfajor light Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajor Ser",
+    "porcion": "1 unidad (aprox. 42 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alfajorcito relleno con maní y cacao bañado c/ chocolate",
+    "porcion": "1 unidad (aprox. 30 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "alimentos a base de trigo y soja",
+    "porcion": "1 taza tamañe té cocido (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "all bran",
+    "porcion": "1 taza tamaño té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "all bran plus",
+    "porcion": "1 cucharada sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "almendrado  (helado)",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "almendrado c/ salsa de chocolate",
+    "porcion": "1 unidad (455 cal.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "almendras",
+    "porcion": "1 cda sopera = 10 undes. (aprox. 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "almidón de maíz (fécula)",
+    "porcion": "1 cda. sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "almohaditas de avena rellenas de",
+    "porcion": "1 taza (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "amaranto",
+    "porcion": "1 cda. sopera  (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "amargo serrano light",
+    "porcion": "1 vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ananá",
+    "porcion": "1 rodaja (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ananá en almíbar",
+    "porcion": "1 rodaja (aprox. 50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ananá en almíbar light",
+    "porcion": "1 rodaja (aprox. 50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "anchoa",
+    "porcion": "1 filete grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "anchoas al natural",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "anchoas en aceite",
+    "porcion": "1 lata chica (150 gr) (6 cr c/ 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "apio",
+    "porcion": "1 penca",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arándanos",
+    "porcion": "1 taza de té (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arenque",
+    "porcion": "1 filet grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "aros de cebolla",
+    "porcion": "1 porción (aprox. 90 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arroz blanco",
+    "porcion": "1 plato tamaño postre (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arroz con leche",
+    "porcion": "1 taza de té (aprox. 150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arroz con leche light",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "arroz integral",
+    "porcion": "1 plato tamaño postre (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bife (ojo de bife)",
+    "porcion": "1 rodaja gruesa (aprox. 140 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bife ancho",
+    "porcion": "1 churrasco chico (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bife angosto",
+    "porcion": "1 churrasco chico (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bife de hígado",
+    "porcion": "1 bife chico (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bife de lomo magro",
+    "porcion": "1 churrasco chico (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Bife magro de lomo o cuadril",
+    "porcion": "1 churrasco chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochos de arroz (Gallo Snacks)",
+    "porcion": "1 porcion (18 unidades)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochos de grasa",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochos de grasa light",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochos de salvado",
+    "porcion": "1 unidad (aprox 3.7 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochuelo",
+    "porcion": "1 porción medina (aprox.60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bizcochuelo bañado en chocolate",
+    "porcion": "1 paquete chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bloquecito de dulce de leche light  (Vauquita)",
+    "porcion": "1 unidad de 25 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Bocadito Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bocadito de higo con 1 mariposa de nuez",
+    "porcion": "1 unidad de 25 gr (74 Kcal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bocadito de oblea con dulce de leche cubierta con chocolate",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bocadito helado bañado con chocolate",
+    "porcion": "1 unidad (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bocaditos light de harina de papa",
+    "porcion": "1 paquete chico (aprox. 21 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón de chocolate relleno pasta de maní y almendras (bon o bon)",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Bombon de dulce de leche",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón de dulce de leche",
+    "porcion": "1 unidad (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón helado (palito)",
+    "porcion": "1 unidad (aprox. 70 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón relleno",
+    "porcion": "1 unidad (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón suizo",
+    "porcion": "1 unidad (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "bombón tipo marroc",
+    "porcion": "1 unidad (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "brochettes de vegetales asados con trozos de pechuga de pollo",
+    "porcion": "2 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "brócoli",
+    "porcion": "1 plato tamaño postre (aprox. 50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "brócoli congelado",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "brotes de soja",
+    "porcion": "1 plato de postre (aprx.50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Brotola",
+    "porcion": "1 filet grande",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "budín de pan",
+    "porcion": "1 porción chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "budín inglés light",
+    "porcion": "1 rodaja fina (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "budín sabor naranja",
+    "porcion": "1 rodaja",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "budín saborizado sin frutas",
+    "porcion": "1 rodaja de 1 cm de grosor (+o- 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caballa",
+    "porcion": "1 filet grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caballa al natural",
+    "porcion": "1 lata chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caballa en aceite",
+    "porcion": "1 lata chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caballa en salsa de tomate",
+    "porcion": "1 lata chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cacao amargo",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cacao común",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cacao reducido en caloría y valor",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Calabaza",
+    "porcion": "1 taza de te en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "calabaza",
+    "porcion": "1 taza de té en cocido (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "calamares",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caldo común",
+    "porcion": "1 vaso (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "camarones",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "canelón de choclo",
+    "porcion": "1 unidad (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cangrejo de mar",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "capuchino light",
+    "porcion": "1 taza tamaño te (aprox. 165 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "capuchino vainilla (en sobres)",
+    "porcion": "1 sobre de 12.5 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Caramelo Acido",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelo ácido",
+    "porcion": "1 unidad (aprox 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelo blando c/ leche light",
+    "porcion": "1 unidad (aprox 8 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelo duros light o pastillas light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Caramelo light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelo masticable",
+    "porcion": "1 unidad (aprox. 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Caramelo relleno de dulce de leche",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelos de goma",
+    "porcion": "1 sobre chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "caramelos rellenos c/ dulce de leche",
+    "porcion": "1 unidad (aprox. 7 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne a la vinagreta",
+    "porcion": "1 rodaja gruesa (180 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne picada común",
+    "porcion": "1 tza tipo té en crudo (aprox. 150 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne picada especial",
+    "porcion": "1 tza tipo té en crudo (aprox. 150 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne bola de lomo",
+    "porcion": "1 churrasco (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne cuadrada",
+    "porcion": "1 churrasco (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne entraña",
+    "porcion": "1 rodaja gruesa (aprox. 150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne falda o matambre",
+    "porcion": "1 rodaja gruesa (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne lomo",
+    "porcion": "1 bife chico (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne ojo de bife",
+    "porcion": "1 rodaja gruesa (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne peceto",
+    "porcion": "1 rodaja fina (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "carne vacío",
+    "porcion": "1 rodaja gruesa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "castañas de cajú",
+    "porcion": "1 cda. sopera ó 12 u. (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cebada pelada",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cebolla",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerdo chuletas",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerdo costillas",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerdo lomo",
+    "porcion": "1 rodaja (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerdo pechito",
+    "porcion": "1 trozo (aprox. 125 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Cereal muesli",
+    "porcion": "1 taza de te",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cereales muesli",
+    "porcion": "1 sombrerito de yogurt",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cereza",
+    "porcion": "1 taza tamaño té (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerveza fuerte",
+    "porcion": "1 lata (aprox. 350 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerveza light",
+    "porcion": "1 lata",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerveza negra",
+    "porcion": "1 lata",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerveza rubia",
+    "porcion": "1 lata (aprox. 350 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cerveza sin alcohol",
+    "porcion": "1 lata (aprox. 350 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Champagne extra brut",
+    "porcion": "1 copa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "champaña demi sec",
+    "porcion": "1 copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "champaña dulce",
+    "porcion": "1 copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "champaña extra brut",
+    "porcion": "1 copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chauchas",
+    "porcion": "1 taza tam. té en cocido (aprox.150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chauchas enlatadas",
+    "porcion": "1 plato postre (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chicle",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Chicle light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chicles light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chinchulín",
+    "porcion": "1 rulito (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chizitos / maicitos",
+    "porcion": "1 taza tamaño té (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "choclo",
+    "porcion": "1 unidad chica (aprox. 125 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "choclo congelado",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "choclo enlatado",
+    "porcion": "1 plato postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate",
+    "porcion": "1 barrita (14 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Chocolate  0% Azucar Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate c/ leche 0% azúcar Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate común",
+    "porcion": "1 unidad de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Chocolate con Cereal Sin azucar",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate con cereal sin azúcar",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate con leche",
+    "porcion": "1 unidad chica (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Chocolate con leche 0% Azucar Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate con leche relleno c/yogur cereza y arroz inflado",
+    "porcion": "1 unidad (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate de tetrapack listo para beber (Cindor)",
+    "porcion": "1 vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate dietético bajo en azúcar",
+    "porcion": "1 unidad de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate dietético promedio",
+    "porcion": "1 unida (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate light",
+    "porcion": "1 unida (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate light casero (leche descrem.+ 1cda. postre cacao amargo y edulc.)",
+    "porcion": "1 vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate negro amargo",
+    "porcion": "1 tableta",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chocolate sin azúcar (georgalos)",
+    "porcion": "1 porción de 25 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chop suey",
+    "porcion": "1 cazuela (aprox. 250 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chorizo",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chorizo colorado",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chorizo de pollo",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chorizo light",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chow mien de pollo",
+    "porcion": "1 cazuela (aprox. 250 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "chuleta de cordero",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cindor light",
+    "porcion": "1 unidad de 200 cm3",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ciruela",
+    "porcion": "1 unidad (aprox. 50 gr.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ciruela deshidratada",
+    "porcion": "1 orejón (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cítricas frutas",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Clara de huevo",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "clara de huevo",
+    "porcion": "1 unidad (aprox 35 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cocktail de camarones",
+    "porcion": "1 copa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cocktails bebida promedio",
+    "porcion": "1 vaso largo (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Cocktails promedio",
+    "porcion": "1 vaso largo",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cóctel light (frutas enlatada)",
+    "porcion": "1 compotera chica (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cogñac (bebida destilada)",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "coliflor",
+    "porcion": "1 taza de té en cocido (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "compota de frutas c/ edulcorante (hecha c/ ciruela durazno damasco pera)",
+    "porcion": "5 unidades de frutas",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "compota de manzana c/ edulcorante",
+    "porcion": "1 taza (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "conejo",
+    "porcion": "1 porción de aprox 150 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "conejo de pascua",
+    "porcion": "1 unidad chica (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "confites de chocolate",
+    "porcion": "1 paquete chico (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "confites de maní con chocolate",
+    "porcion": "1 paquete chico (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cono de vainilla",
+    "porcion": "1 unidad (aprox. 95 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "copos de avena",
+    "porcion": "1 taza de té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "copos de cereal de avena s/ azúcar",
+    "porcion": "1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Copos de maiz",
+    "porcion": "1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "copos de maíz",
+    "porcion": "1 taza de té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "copos de salvado de trigo c/ chocolates y fresas (italianos)",
+    "porcion": "1 taza de té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cordero",
+    "porcion": "1 rodaja gruesa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "corvina",
+    "porcion": "1 filete grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cous cous",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema de leche",
+    "porcion": "1 cucharada postre (aprox. 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema de leche al 40 %",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema de leche light",
+    "porcion": "1 cucharada de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema light 0%",
+    "porcion": "1 cda sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema no láctea light para café",
+    "porcion": "1 cda. tamaño té (aprox. 2 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "crema no láctea para café",
+    "porcion": "1 cda. tamaño té (aprox. 2 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cuadraditos de avena",
+    "porcion": "1 taza de té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cuadraditos de dulce de leche light",
+    "porcion": "1 unidad (aprox. 18 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Cuadril",
+    "porcion": "1 rodaja gruesa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cuadril magro",
+    "porcion": "1 rodaja gruesa (aprox.150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Cubanito Cormillot",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cubanito helado",
+    "porcion": "1 unidad (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cubanito light Cormillot",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "cuscús",
+    "porcion": "1 plato tam. postre (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "daiquiri",
+    "porcion": "1 vaso largo (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "damasco",
+    "porcion": "1 unidad (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "damasco deshidratado",
+    "porcion": "1 orejón (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dorado",
+    "porcion": "1 filete grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de batata",
+    "porcion": "1 cassette de música (50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de batata light",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Dulce de Leche",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de leche (light)",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de leche común",
+    "porcion": "1 cda. tam. postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Dulce de leche light",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de membrillo",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "dulce de membrillo light",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "durazno (fruta fresca)",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "durazno en almíbar light",
+    "porcion": "2 mitades (aprox. 100)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "durazno fruta deshidratada",
+    "porcion": "1 orejon (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "echalote",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de carne al horno",
+    "porcion": "1 unidad (aprox 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de carne frita",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de jamón y queso al horno",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de jamón y queso frita",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de pollo al horno",
+    "porcion": "1 unidad (aprox 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de pollo frita",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada de verdura al horno",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "empanada gallega completa",
+    "porcion": "1 unidad completa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada César (Mc Donald)",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada César c/ crispy (Mc Donald)",
+    "porcion": "1 porción (aprox. 300 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada César con pollo (Mc Donald)",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de frutas",
+    "porcion": "1 taza con líquido (aprox. 280 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de frutas (c/ edulcorante)",
+    "porcion": "1 vaso (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de frutas Cormillot light",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de frutas enlatada s/ azúcar",
+    "porcion": "1 compotera chica (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de frutas sin azúcar",
+    "porcion": "1 compotera (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada de la huerta (Mc Donald)",
+    "porcion": "1 porción (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada Gourmet (Mc Donald)",
+    "porcion": "1 porción (250 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada jardinera",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada jardinera congelada",
+    "porcion": "1 plato postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada jardinera enlatada",
+    "porcion": "1 plato tamaño postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada primavera congelada",
+    "porcion": "1 plato postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada rusa",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada Waldorf común",
+    "porcion": "1 porción (aprox 175 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ensalada Waldorf light",
+    "porcion": "1 porción (aprox 180 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "escarola",
+    "porcion": "1 plato tamaño postre (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "espárrago",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "espinaca",
+    "porcion": "1 taza grande en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "extracto de carne",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "factura con crema pastelera",
+    "porcion": "1 unidad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "factura con dulce de leche",
+    "porcion": "1 unidad (aprox 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Facturas con dulce de leche",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "facturas con dulce de membrillo",
+    "porcion": "1 unidad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fainá",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fécula de maíz",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos",
+    "porcion": "1 plato tamaño postre (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos de sémola con gluten",
+    "porcion": "1 plato postre (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos dietéticos",
+    "porcion": "1 plato tamaño postre (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos frescos de verduras",
+    "porcion": "1 plato tamaño postre (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos secos integrales",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fideos spaguetti seco de espinaca",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "flan casero",
+    "porcion": "1 compotera chica (aprox. 125 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Flan en polvo producto terminado",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "flan hecho de polvo",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Flan Light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "flan light Cormillot",
+    "porcion": "1 compotera chica (100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Flan light en polvo",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "flan light hecho de polvo",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "flan light sabor vainilla",
+    "porcion": "1 pote (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "frambuesa",
+    "porcion": "1 taza tamaño té (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "fruta abrillantada",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Fruta deshidratada promedio",
+    "porcion": "1 orejon",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Fruta promedio",
+    "porcion": "1 rodaja o 1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Fruta seca",
+    "porcion": "promedio 10 almendras 15 manies o 5 mariposas de nuez.",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Frutas Citricas",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "frutas deshidratadas",
+    "porcion": "promedio 1 orejon",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Frutas envasadas light",
+    "porcion": "1 mitad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "frutillas",
+    "porcion": "1 taza tamaño té (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "frutillas c/ 1 cda. de crema",
+    "porcion": "1 taza (100 Cal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletas de arroz",
+    "porcion": "1 unidad (aprox. 8 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletas de arroz \"arrocitas\" (cuadradas)",
+    "porcion": "3 unidades (corregido)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita bañada en chocolate \"Tita\"",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita de salvado light",
+    "porcion": "1 unidad (aprox. 7 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita dulce",
+    "porcion": "1 unidad (aprox. 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita dulce rellena",
+    "porcion": "1 unidad (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita integral",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita integral 50 % menos en grasa",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita integral light",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita integral sin sal",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Galletita rellena bañada con chocolate",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletita rellena bañada en chocolate",
+    "porcion": "1 unidad (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas Club Social",
+    "porcion": "1 paquetito de 26 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de agua",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Galletitas de agua con o sin sal",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de agua con sal",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de agua light",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de agua sin sal",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de salvado bajo tenor graso",
+    "porcion": "6 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas de salvado Fargo",
+    "porcion": "1 unidad (aprox. 7.5grs)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces 3 cereales light",
+    "porcion": "5 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces con salvado",
+    "porcion": "3 unidades (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces diet de Dietética Integral",
+    "porcion": "5 unidades (aprox. 30 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces light",
+    "porcion": "6 unidades (aprox. 23 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces limón light",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Galletitas dulces rellenas",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces rellenas con sabor limón",
+    "porcion": "1 unidad chica (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces simples",
+    "porcion": "2 unidades (aprox. 27 gr) (407 Cal/100gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas dulces simples bajas en grasa",
+    "porcion": "6 unidades (aprox. 4 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas frutigran",
+    "porcion": "3 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Galletitas integral con o sin sal",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas saladas",
+    "porcion": "1 paquete de 3 unids. (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas saladas integrales",
+    "porcion": "1 paquete de 3 unids. (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas saladas integrales tipo snack",
+    "porcion": "1 paquete de de 3 unid. (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "galletitas saladas tipo snack",
+    "porcion": "1 paquete de de 3 unid. (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Galletitas Vainillas",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "garbanzos",
+    "porcion": "1 taza de té en cocido (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "garrapiñadas",
+    "porcion": "10 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "garrapiñadas de almendras",
+    "porcion": "1 cda. sop. (10 unid.) (aprox. 15 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa cola común",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa cola light",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa común",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa light sabor naranja",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa lima limón",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa lima limón light",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gaseosa naranja",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Gaseosas Cola",
+    "porcion": "1  vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Gelatina en polvo producto terminado",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gelatina hecha de polvo para postre",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Gelatina Light en polvo",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gelatina light hecha de polvo para postre",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "germen de trigo",
+    "porcion": "1 cucharada sopera (aprox. 8 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gin & tonic",
+    "porcion": "1 vaso largo (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "gin (bebida destilada)",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "girasol tostado (Pipas)",
+    "porcion": "1 paquetito",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "granola",
+    "porcion": "1 taza tamaño té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grisines",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grisines de gluten sin sal",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grisines de salvado",
+    "porcion": "10 unidades (aprox. 16 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grisines sin sal",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grisines trisalvado Cormillot",
+    "porcion": "1 unidad (aprox. 5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "grosellas",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "guayaba",
+    "porcion": "1 unidad (aprox. 25 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "guinda",
+    "porcion": "1 taza tamaño té (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "guiso de arroz",
+    "porcion": "1 plato hondo (200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "guiso de lentejas",
+    "porcion": "1 plato hondo (200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "habanitos cubiertos de chocolate",
+    "porcion": "1 unidad (aprox 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "habas",
+    "porcion": "1 taza tam. té cocidas (aprox. 33 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Hamburguesa",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa comercial light",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa de pescado",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa de pescado c/ espinaca",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa de soja",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Hamburguesa light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hamburguesa light Cormillot",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "harina de avena",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Harina de trigo",
+    "porcion": "1 cda sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "harina de trigo común",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "harina de trigo integral",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado cono de vainilla",
+    "porcion": "1 unidad (aprox 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado de agua",
+    "porcion": "1 bocha o palito (100 gr) (94 cal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado de agua light",
+    "porcion": "1 unidad (aprox. 70 cc)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado de crema",
+    "porcion": "1 bocha o 1 palito (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado de crema americana light c/ mermelada de frutilla",
+    "porcion": "1 unidad (80 Cal.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado de fruta",
+    "porcion": "1 bocha o palito (100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Helado Diet Cormillot",
+    "porcion": "1 pote individual",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Helado Diet Freddo",
+    "porcion": "1 bocha",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado light",
+    "porcion": "1 bocha (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Helado Light Cormillot",
+    "porcion": "1 pote individual",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado light Cormillot choc. y d. de leche",
+    "porcion": "1 pote individual (aprox. 125 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado light de crema c/ salsa de frutilla",
+    "porcion": "1 pote (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado light de limòn",
+    "porcion": "1 bocha",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helado light Freddo",
+    "porcion": "1 bocha",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "helados diet Cormillot",
+    "porcion": "1 pote individual",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Higado",
+    "porcion": "1 bife chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hígado bife",
+    "porcion": "1 porción chica (aprox.100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "higo",
+    "porcion": "1 unidad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "higo (fruta fresca)",
+    "porcion": "2 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "higo deshidratado",
+    "porcion": "1 orejón (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hinojo",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "hongos",
+    "porcion": "1 plato tamaño postre (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Hortalizas promedio",
+    "porcion": "1 taza grande en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevito de pascuas de 8 gr",
+    "porcion": "1 unidad de 8 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Huevo",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevo",
+    "porcion": "1 unidad (aprox. 50 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevo de codorniz",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevo de pascua de 30 gr",
+    "porcion": "1 unidad (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevo de pascua de 50 gr",
+    "porcion": "1 unidad mediana (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "huevo omega 3",
+    "porcion": "1 unidad (aprox. 50 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jalea",
+    "porcion": "1 cucharada de postre (aprx. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Jamon cocido",
+    "porcion": "1 feta",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jamón cocido",
+    "porcion": "1 feta (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jamón crudo",
+    "porcion": "1 feta (aprox 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jerez dulce",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo Baggio light de manzana",
+    "porcion": "1 envase individual",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo Cítric de naranja (no es dietético)",
+    "porcion": "100 cm3",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de frutas envasado",
+    "porcion": "1 envase (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de frutas envasado light",
+    "porcion": "1 envase (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de limón",
+    "porcion": "1 cucharada de postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Jugo de manzana envasado",
+    "porcion": "1  vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de manzana envasado (comercial)",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Jugo de naranja envasado",
+    "porcion": "1  vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de naranja exprimido",
+    "porcion": "1 vaso con 2 unid. (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de naranja light envasado",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de soja común sabor natural",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo de soja saborizada",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Jugo de soja saborizado light",
+    "porcion": "1  vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo en polvo",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo en polvo light",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo envasado de frutas",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo envasado light",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo light de soja",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo para diluir",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jugo para diluir ditético",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "jurel al natural",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "kani kama (surimi)",
+    "porcion": "1 unidad (aprox. 18 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ketchup",
+    "porcion": "1 cda. Tam. postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "kiwi",
+    "porcion": "1 unidad (aprox.65 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "krill",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "langostino",
+    "porcion": "1 unidad (aprox. 75 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche chocolatada común",
+    "porcion": "1 vaso o cartoncito (aprox. 200 cm3.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche chocolatada light",
+    "porcion": "1 vaso o cartoncito (aprox. 200 cm3.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche con CLA",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche con omega 3 y fitoesteroles",
+    "porcion": "1 taza tamaño té (aprox. 200 cm3.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche de soja",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Leche Decremada fluida",
+    "porcion": "1 taza té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Leche descr. Ser con frutos del trópico",
+    "porcion": "1 vaso (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche descremada en polvo",
+    "porcion": "1 cucharada sopera (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche descremada fluida",
+    "porcion": "1 taza tamaño té (aprox.200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Leche entera",
+    "porcion": "1 taza  té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche entera en polvo",
+    "porcion": "1 cucharada sopera (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche entera fluida",
+    "porcion": "1 taza tamaño té (aprox.200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche fermentada light",
+    "porcion": "1 vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche fermentada light c/ prebióticos",
+    "porcion": "1 botellita de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche parcialmente descremada",
+    "porcion": "1 vaso (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche parcialmente descremada en polvo",
+    "porcion": "1 cucharada sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche parcialmente descremada extra calcio deslactosada",
+    "porcion": "1 tza tamaño té (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "leche parcialmente descremada fortificada c/ calcio",
+    "porcion": "1 vaso (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "lechuga",
+    "porcion": "1 plato tamaño postre (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Legumbres promedio",
+    "porcion": "1 taza de te en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "lengua a la vinagreta",
+    "porcion": "1 rodaja gruesa (180 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "lenguado",
+    "porcion": "1 filet grande",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "lentejas",
+    "porcion": "1 plato tamaño postre (aprox. 33 gr. en cocido)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "lentejas de chocolate",
+    "porcion": "1 paquete chico (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Levadura de cerveza",
+    "porcion": "1 cda sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "levadura de cerveza",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "levadura de cerveza seca Cormillot",
+    "porcion": "1 cucharada tipo té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "licor",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Licores",
+    "porcion": "1 medida",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "licuado c/ azúcar y leche entera",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "licuado light de durazno",
+    "porcion": "1 vaso (aprox. 250 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "limón",
+    "porcion": "1 unidad (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "longaniza",
+    "porcion": "1 unidad (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "magdalena de chocolate con relleno de dulce de leche",
+    "porcion": "1 unidad (aprox. 35 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "magdalena de vainillas",
+    "porcion": "1 unidad (aprox. 30 gramos)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "maíz inflado",
+    "porcion": "1 paquete chico o 1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "maíz inflado azucarado",
+    "porcion": "1 taza tam té o 1 paquete chic (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "malta",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mandarina",
+    "porcion": "1 unidad chica (aprox 50 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mandioca",
+    "porcion": "1 unidad chica (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mango",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "maní",
+    "porcion": "1 cda sopera o 15 unid. (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Mani con chocolate",
+    "porcion": "1 Paquete chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "maní con chocolate",
+    "porcion": "1 paquete chico (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manteca",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manteca light",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mantecol (barra pasta de maní)",
+    "porcion": "1 unidad de 25 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manzana (fruta fresca)",
+    "porcion": "1 unidad  chica (aprox 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manzana asada",
+    "porcion": "1 unidad media. (aprox. 100 gr 60 cal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manzana deshidratada Cormillot",
+    "porcion": "1 paquete (20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manzana fruta deshidratada",
+    "porcion": "1 orejón (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "manzana verde",
+    "porcion": "1 unidad  (aprox 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina",
+    "porcion": "1 cucharada de postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Margarina % trans con o sin omega 3",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina 0% trans c/ calcio",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Margarina 0% Trans promedio",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina 0% trans s/ sal y c/ fibras",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina light",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina light con calcio",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina light o% trans promedio (conomega 3 calcio fibra y fitoestanoles)",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina sin trans c/ omega 3",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "margarina sin trans con omega 3",
+    "porcion": "1 cda. de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mariscos",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa de canelón",
+    "porcion": "1 unidad (aprox. 27 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa light para empanadas",
+    "porcion": "1 unidad (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa light para tarta",
+    "porcion": "1 porción c/ 1 tapa (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa para empanadas",
+    "porcion": "1 unidad (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa para lasagna",
+    "porcion": "1 porción (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "masa para tarta",
+    "porcion": "1 porción c/ 1 tapa (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mayonesa",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mayonesa de ave",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mayonesa Hellman Deleite",
+    "porcion": "1 porción de 28 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mayonesa light",
+    "porcion": "1 cda sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "medallon de espinaca (vegetalex)",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "medallón de menta light",
+    "porcion": "1 unidad de 20 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "medallones de pollo c/queso frito",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "medialuna",
+    "porcion": "1 unidad chica (aprox 35 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Medialunas",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "medialunas light",
+    "porcion": "1 unidad (25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mejillones al natural",
+    "porcion": "1 taza tamaño te (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "melón",
+    "porcion": "1 tajada 2 dedos de grosor (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "merluza",
+    "porcion": "1 filet grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mermelada",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mermelada light",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Mermeladas",
+    "porcion": "1 Cda postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "miel",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mignón de pan francés",
+    "porcion": "1 unidad (40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mignón de pan integral",
+    "porcion": "1 unidad (40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mijo",
+    "porcion": "1 cda. sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "milanesa de carne al horno",
+    "porcion": "1 unidad mediana (100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "milanesa de carne frita",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "milanesa de pollo al horno",
+    "porcion": "1 unidad de 150 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "milanesa de pollo frita",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "milanesa de soja",
+    "porcion": "1 unidad (aprox. 80 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "miso",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "molleja",
+    "porcion": "1 unidad chica (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mondongo",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mora",
+    "porcion": "1 taza tamaño té (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "morcilla",
+    "porcion": "1 unidad (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "morrones enlatados",
+    "porcion": "1 mitad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mortadela",
+    "porcion": "1 feta (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mostaza",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse de limón light Cormillot",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse de queso light c/ colchón de fruta Nestle",
+    "porcion": "1 porción de aprox 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse de queso light Cormillot",
+    "porcion": "1 pote individual (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Mousse en Polvo producto terminado",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse hecho de polvo para postre",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Mousse light",
+    "porcion": "1 pote o 1 compotera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse light",
+    "porcion": "1 compotera (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mousse light sabor cheesecake",
+    "porcion": "1 pote (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mozzarella",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mozzarella light",
+    "porcion": "1 cassette de música",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "mozzarella magra sin sal",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "muesli",
+    "porcion": "1 taza tipo té (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "multicereal Cormillot fortificado",
+    "porcion": "1 porción de 40 gr o 3 cdas soperas",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "muslo de pavo sin piel",
+    "porcion": "1 porción de 150 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "muslo de pollo sin piel",
+    "porcion": "1 unidad mediana (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "nachos",
+    "porcion": "1 taza tamaño té (aprox. 20 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "naranja (fruta)",
+    "porcion": "1 unidad chica (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "naranja grande (fruta)",
+    "porcion": "1 unidad grande (150 gramos)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "nueces",
+    "porcion": "5 mariposas o 1 cda. sopera (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ñoquis de calabaza",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ñoquis de papa",
+    "porcion": "1 plato postre (aprx. 60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ñoquis de zapallo",
+    "porcion": "1 plato playo (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ñoquis light de espinaca",
+    "porcion": "1 plato tamaño postre (aprox.60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "omellette de jamón y queso light c/ rocío veg",
+    "porcion": "1 porción (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "omellette jamón y queso light c/ aceite",
+    "porcion": "1 porción (aprox. 140 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "orejones de durazno",
+    "porcion": "1 paquete chico ( aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "paleta",
+    "porcion": "1 feta (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "palitos salados",
+    "porcion": "1 taza tamaño té (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "palmitos",
+    "porcion": "1 unidad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "palta",
+    "porcion": "1 unidad chica (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pan Arabe",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan árabe",
+    "porcion": "1 unidad chica (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan baguette",
+    "porcion": "1 rodaja (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan blanco light c/ fitoesteroles",
+    "porcion": "1 rebanadas (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan de centeno",
+    "porcion": "1 rodaja (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pan de salvado",
+    "porcion": "1 rodaja",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan de salvado",
+    "porcion": "1 rebanada (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan de salvado light",
+    "porcion": "1 rodaja (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan dulce",
+    "porcion": "1 rodaja mediana (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pan frances",
+    "porcion": "1 rodaja",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan francés (mignon)",
+    "porcion": "1 mignon (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan francés (rodaja)",
+    "porcion": "1 rodaja (aprox. 25 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan integral",
+    "porcion": "1 mignon (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan integral doble salvado c/ fitoesteroles",
+    "porcion": "1 rebanada (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan lactal blanco",
+    "porcion": "1 rodaja (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan lactal blanco light",
+    "porcion": "1 rodaja (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan lactal integral",
+    "porcion": "1 rodaja (aprox. 25 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pan miñon de pan Frances",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pan miñon integral",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pan rallado",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "panceta ahumada",
+    "porcion": "1 feta (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "panqueque light de ricota",
+    "porcion": "1 unidad chica (150 cal.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Papa",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papa",
+    "porcion": "1 unidad chica (aprox. 120 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas bastón congeladas",
+    "porcion": "1 plato postre (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas fritas",
+    "porcion": "1 porción mediana (110 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas fritas aireadas reducidas en grasas",
+    "porcion": "1 paquete chico (21 gr) (95 cal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas fritas envasadas (de copetín)",
+    "porcion": "1 paquete chico (aprox. 20 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas fritas sin sal",
+    "porcion": "1 taza de té (aprx. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papas light (horneadas)",
+    "porcion": "1 paquete chico (aprox. 20 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "papaya",
+    "porcion": "1 unidad chica (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "paragüitas de chocolate",
+    "porcion": "1 unidad (aprox. 12.5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pasas de uva",
+    "porcion": "1 cucharada sopera (aprox. 10 gr) ó 20 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pasas de uva bañadas en chocolate",
+    "porcion": "10 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pasta de maní",
+    "porcion": "1 tableta chica (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastas al huevo (plato playo)",
+    "porcion": "1 plato playo (aprox. 70 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastas al huevo (plato postre)",
+    "porcion": "1 plato postre (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastel de papas con aceite",
+    "porcion": "1 plato postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastelitos fritos c/ dulce de memb. o batata",
+    "porcion": "1 unidad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastillas light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pastrón",
+    "porcion": "1 feta (aprox 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "paté de foie",
+    "porcion": "1 cucharada de postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "patitas de pollo",
+    "porcion": "3 unidades (aprox. 90 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pebete de jamón y queso",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Peceto",
+    "porcion": "1 rodaja fino",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "peceto al champiñón",
+    "porcion": "3 rodajas finas (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pechuga de pavo con piel",
+    "porcion": "1 unidad mediana",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pechuga de pavo sin piel",
+    "porcion": "1 porción de 150 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pechuga de pollo sin piel",
+    "porcion": "1 unidad mediana (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pelón",
+    "porcion": "1 unidad (aprox.100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pepino",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pera (fruta fresca)",
+    "porcion": "1 unidad (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pera asada",
+    "porcion": "1 unidad media. (aprox. 100 gr 60 Cal)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "peras en almíbar",
+    "porcion": "1 mitad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "peras en almíbar light",
+    "porcion": "1 mitad (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "perejil",
+    "porcion": "1 cucharada sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pez espada",
+    "porcion": "1 filete grande (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "piñón",
+    "porcion": "1 cda. sopera o 60 unidades.",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "piñones",
+    "porcion": "1 cda. sopera o 60 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pistachio",
+    "porcion": "1 cda. sopera o 15 unid. (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza a la calabresa c/muzz. y salamín",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza casera a la piedra con fiambre",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza casera c/salsa de tomate y muzzarella light o queso light",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza de rùculla provolone y panceta",
+    "porcion": "1 porciòn",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza integral casera con muzzarella light tomate y lechuga",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza integral con acelga y salsa blanca",
+    "porcion": "1 porciòn",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza integral con zapallitos y berenjenas",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza muzzarella comprada",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza s/queso c/salsa de tomates atún y camarones",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pizza s/queso c/salsa de tomates vegetales",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pochoclos",
+    "porcion": "1 paquete chico (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "polenta ( Harina de Maíz)",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "polenta instantánea",
+    "porcion": "1 plato tamaño postre (aprox. 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "polenta sola",
+    "porcion": "1 plato tipo postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pollo a la portuguesa",
+    "porcion": "1/4 de pollo (aprox.150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pollo con piel",
+    "porcion": "1/4 pollo",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pollo con piel sin hueso",
+    "porcion": "1/4 pollo (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Pollo sin piel ni hueso",
+    "porcion": "1/4 de pollo",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pollo sin piel y sin hueso",
+    "porcion": "1 porción de 1/4 de pollo",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pollo muslo sin piel",
+    "porcion": "1 unidad mediana",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "polvo Royal",
+    "porcion": "1 cda. de postre (aprox. 10 gr) 5 cr c/100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "pomelo",
+    "porcion": "1 unidad (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "porotos",
+    "porcion": "1 taza tam. té cocido (33 gr en crudo)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "porotos cocidos",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "porotos de soja",
+    "porcion": "1 taza tam. té cocido (33 gr en crudo)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre de chocolate c/ d.de leche",
+    "porcion": "1 pote chico (aprox. 130 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre de leche",
+    "porcion": "1 pote chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre de leche de chocolate light",
+    "porcion": "1 unidad (65 cal.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre de leche light",
+    "porcion": "1 pote (aprox. 130 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Postre en polvo producto terminado",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre hecho de polvo para postre",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Postre Light en polvo",
+    "porcion": "1 compotera chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre light hecho de polvo para postre",
+    "porcion": "1 compotera chica (aprox. 120 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre Ser de dulce de leche o chocol.",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "postre Shimi (no diet)",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Postres de leche",
+    "porcion": "1 pote chico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "producto para copetín promedio",
+    "porcion": "1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "puerro",
+    "porcion": "2 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "puré de calabaza con aceite",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "puré de papa con aceite",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "puré de papa con leche descremada",
+    "porcion": "1 plato postre (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso blanco entero",
+    "porcion": "2 cucharadas de postre (aprox. 20 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso blanco semidescremado",
+    "porcion": "1 cucharada de postre (aprox. 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso blanco untable descremado",
+    "porcion": "1 cucharada de postre (aprox. 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso cheddar",
+    "porcion": "1 dadito",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso crema Blanco entero",
+    "porcion": "1 cda.   postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso cremoso light Sancor",
+    "porcion": "1 cassette de música (50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso cuartirolo",
+    "porcion": "1 cassette de música (50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso cuartirolo descremado Verónica",
+    "porcion": "1 cassette de música (50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso dambo magro Cormillot",
+    "porcion": "1 feta (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso de máquina",
+    "porcion": "3 fetas (aprox. 30 gr) 3 de 10 gr o 2 de 15 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso en hebras light",
+    "porcion": "1 cda. sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso finlandia light 7%",
+    "porcion": "1 cucharada de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso fundido entero",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso fundido light",
+    "porcion": "1 cucharada de postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso fundido light en triángulo",
+    "porcion": "1 triángulo (aprox. 25 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso mini Fimbo",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso mozzarella",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso Muzzarella",
+    "porcion": "1 cassette de música",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso Port salut",
+    "porcion": "1 cassette de música",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso port salut",
+    "porcion": "1 cassette de música (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso Port salut light",
+    "porcion": "1 cassette de músico",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso port salut light",
+    "porcion": "1 cassette tamaño audio (aprox.50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso port salut light untable",
+    "porcion": "1 cda. de postre (aprox. 12 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso provolone",
+    "porcion": "1 cassette de música (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso rallado",
+    "porcion": "1 cda. sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso rallado light",
+    "porcion": "1 cucharada sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso ricotta",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso Ricotta descremado",
+    "porcion": "1 cda. postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso roquefort",
+    "porcion": "1 cassette tamaño audio (aprx. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso tholen light 4%",
+    "porcion": "1 cucharada de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso tofu",
+    "porcion": "1 porción tamaño cassette de música",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Queso Untable Blanco descremado",
+    "porcion": "1 cda. postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso untable Cormillot de Tregar",
+    "porcion": "1 porción de 50 gr.",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso untable descremado",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso untable entero",
+    "porcion": "1 cda. tamaño postre (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "queso untable port salut Sanco",
+    "porcion": "r 1 cucharada tipo postre (10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "quinoa",
+    "porcion": "1 cucharada sopera ( aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rabanito",
+    "porcion": "1 unidad (aprox. 20 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "radicheta",
+    "porcion": "1 plato de postre (aprx.50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de pollo",
+    "porcion": "1 plato tamaño postre (aprx.60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Ravioles de ricota y espinaca",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de ricota y espinaca c/ manteca y queso",
+    "porcion": "1 plato abundante (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Ravioles de ricota y espinaca light",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de ricotta y espinaca (p. playo)",
+    "porcion": "1 plato playo abundante (aprx.180 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de ricotta y espinaca (p. postre)",
+    "porcion": "1 plato de postre (aprx.60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de ricotta y espinaca light",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ravioles de soja light Cormillot",
+    "porcion": "1 plato (aprox. 60gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rebozador c/ germen de trigo y avena",
+    "porcion": "3 cucharadas soperas (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rebozador integral",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Remolacha",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "remolacha (hortaliza)",
+    "porcion": "1 unidad chica (aprox. 60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "remolacha (jugo)",
+    "porcion": "1 vaso (aprox. 60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "remolacha enlatada",
+    "porcion": "1 plato postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "repollitos de bruselas",
+    "porcion": "1 taza grande en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "repollo",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ricota",
+    "porcion": "1 cda. tamaño postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "ricota descremada",
+    "porcion": "1 cda. tamaño postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Riñon",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "riñón",
+    "porcion": "1 unidad chica (aprox.50 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "risotto",
+    "porcion": "1 plato de postre (100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "risotto (revista de febrero 2006)",
+    "porcion": "1 plato de postre (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rocío vegetal",
+    "porcion": "1 segundo de rociado (aprox. 0.5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rogel",
+    "porcion": "1 porción mediana (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rollito de dulce de leche bañado en choxcolate",
+    "porcion": "1 unidad (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rosca de pascua",
+    "porcion": "1 rodaja chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rúcula",
+    "porcion": "1 plato postre (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rueda de chocol. semiamargo relleno c/menta",
+    "porcion": "1 unidad de aprox.18 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "rueda de chocolate semiamargo c/relleno de yogurt de frutilla",
+    "porcion": "1 unidad de aprox.18 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salame",
+    "porcion": "1 feta (aprox. 25 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Salchicha",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salchicha común",
+    "porcion": "1 unidad (aprox. 40 gr) (9 cr c/ 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salchicha de soja",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salchicha light",
+    "porcion": "1 unidad (aprox. 33 gr) (3.25 cr c/ 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salchicha parrillera",
+    "porcion": "1 unidad (aprox. 60 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salmón",
+    "porcion": "1 filet grande",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salmón al natural",
+    "porcion": "1 lata chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa barbacoa",
+    "porcion": "1 cda tamaño postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa bolognesa",
+    "porcion": "2 cucharadas soperas (aprox. 30 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa de soja",
+    "porcion": "1 cda. tamaño postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa fileto",
+    "porcion": "1 cucharada sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa fileto en polvo lista p' consumir",
+    "porcion": "1 cucharada sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa golf",
+    "porcion": "1 cda. sopera (aprox 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa golf light",
+    "porcion": "1 cucharada de postre (aprox 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa pesto",
+    "porcion": "1 cucharada sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa portuguesa",
+    "porcion": "1 cucharada sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salsa portuguesa light",
+    "porcion": "1 cucharada sopera (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salvado de avena",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "salvado de trigo",
+    "porcion": "1 cucharada sopera (aprox. 10 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sandía",
+    "porcion": "1 taj. de  dedos de ancho (Apr.100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sándwich de miga integral de jamón y queso Cormillot",
+    "porcion": "1 unidad (aprox. 40 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sándwich de pan árabe integral (45) c/ 1 cassette de queso port salut light (2) + 1 tomate y hojas de albahaca(0)",
+    "porcion": "1 sandwich",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sándwich de pan lactal integral (35) c/ 1 lata atún al natural (0.75) + zanahoria rallada (0.25) + 1 cda. de mayon. light (1)",
+    "porcion": "1 sandwich",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sándwich de pan lactal integral (35) c/ berenjena a la milanesa (0) + 1/2 huevo duro (1) + hojas de lechuga (0) + 2 cdas. de ketchup (0)",
+    "porcion": "1 sandwich",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sándwich tostado de jamón y queso",
+    "porcion": "1 triangulito",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sardina en aceite",
+    "porcion": "1 porción de 100 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "semillas de girasol (pipas)",
+    "porcion": "1 cucharada sopera (aprox. 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "semillas de girasol confitadas",
+    "porcion": "1 cucharada soperas (aprox. 16 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Semillas promedio",
+    "porcion": "1 cda sopera",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "semillitas de chía",
+    "porcion": "1 cucharada sopera (aprox. 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "semillitas de lino",
+    "porcion": "1 cucharada sopera (aprox 10 g)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "semillitas de sésamo",
+    "porcion": "1 cucharada sopera (aprox. 5 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "seso",
+    "porcion": "1 unidad chica (aprox. 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sidra",
+    "porcion": "1 copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Sidra Light",
+    "porcion": "1 copa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sidra light",
+    "porcion": "1 copa (100 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Snacks para copetin",
+    "porcion": "1 taza de Té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "soja enlatada",
+    "porcion": "1 taza tamaño té (aprox 33 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "soja natural",
+    "porcion": "bebida 1 vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa crema",
+    "porcion": "1 taza (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa crema batido Cormillot",
+    "porcion": "1 vaso (aprox. 240 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa crema Knorr de espárragos",
+    "porcion": "1 porción de 16.3 gr (2 cdas. Soperas)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa de calabaza",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Sopa instantanea Reconstituida",
+    "porcion": "1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa instantánea reconstituida",
+    "porcion": "1 taza tamaño té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa Knorr Quick light (tomate vegetales zapallo arvejas)",
+    "porcion": "1 porción de 11 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sopa light",
+    "porcion": "1 taza grande (aprox 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "spaguetti c/ salsa ajo y albahaca",
+    "porcion": "1 plato tam. postre en cocido(apx.230 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "stop calory chocolate c/ leche descr.",
+    "porcion": "1 vaso (aprox. 230 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sundae de frutilla",
+    "porcion": "1 porción (aprox. 180 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "suprema al champiñón",
+    "porcion": "1 unidad chica (100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "surimi (kani-kama)",
+    "porcion": "1 unidad (aprox. 18 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "sushi",
+    "porcion": "1 unidades (200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tableta de dulc. de leche cub. con",
+    "porcion": "1 unidad (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tableta de dulc. de leche light",
+    "porcion": "1 unidad (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "taco mexicano",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tapa de nalga (vaca)",
+    "porcion": "1 rodaja (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Tapa Masa de canelon",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Tapa masa de tarta",
+    "porcion": "1 porcion con una tapa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de acelga con 1 sola tapa",
+    "porcion": "1 porción (1/8 de tarta)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de atún c/ 1 tapa",
+    "porcion": "1 porción c/ 1 tapa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de jamón y queso",
+    "porcion": "1 porción",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de manzana",
+    "porcion": "1 porción chica (aprox.100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de manzana light",
+    "porcion": "1 porción chica (aprox.100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de merengue y crema",
+    "porcion": "1 porción (aprox.150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de queso y cebolla c/ 2 tapas",
+    "porcion": "1 porción (1/8 de tarta c/ 2 tapa)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de ricota la comprada en confitería",
+    "porcion": "1 porción de 140 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de vigilia light",
+    "porcion": "1/8 tarta",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de zapallito",
+    "porcion": "1 porción (1/8 de tarta c/ 1 tapa)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de zapallo con 1 sola tapa",
+    "porcion": "1 porción (1/8 de tarta)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta de zapallo light con 1 sola tapa",
+    "porcion": "1 porción (1/8 de tarta)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tarta individual) de frutos del bosque",
+    "porcion": "1 unidad de 42 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Tic - Tac (confititos)",
+    "porcion": "1 cajita",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tira de asado",
+    "porcion": "1 tira de 3 huesos (aprox. 150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tira de asado magro",
+    "porcion": "1 tira de 3 huesos",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tofu",
+    "porcion": "1 cassette tamaño audio (aprox 50 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tomate",
+    "porcion": "1 unidad chica (aprox. 100 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tomate perita",
+    "porcion": "1 unidad chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tomate perita pelado enlatado",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tomate relleno c/ atún",
+    "porcion": "2 unidades",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tomate relleno de atún al natural",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "torta Rogel",
+    "porcion": "1 porción mediana (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tortilla de acelga con aceite",
+    "porcion": "1/4 de tortilla (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tortilla de acelga en rocío vegetal",
+    "porcion": "1/4 de tortilla chica",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tortilla de papa con aceite",
+    "porcion": "1/4 de tortilla (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostada light",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostadas clásicas",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Tostadas de gluten",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostadas de mesa",
+    "porcion": "1 unidad (aprox. 6.5 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostadas integrales",
+    "porcion": "1 unidad (aprox. 6 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostadas integrales de gluten",
+    "porcion": "2 tostadas (aprox. 6 grs. c/u)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostadas marca SER común o salvado",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostaditas twistos",
+    "porcion": "1 paquete chico de 40 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "tostado (sándwich tostado)",
+    "porcion": "1 triangulito",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Tapa masa de tarta light",
+    "porcion": "1 porcion con una tapa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "trigo burgol",
+    "porcion": "1 taza de té en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "trigo candela",
+    "porcion": "1 plato de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "trigo inflado",
+    "porcion": "1 paquete chico ó 1 taza de té",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "trucha",
+    "porcion": "1 unidad (150 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "turrón de almendra",
+    "porcion": "1 trozo mediano (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "turrón de cereal bañado en chocolate",
+    "porcion": "1 unidad (aprox. 22 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Turron de mani",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "turrón de maní",
+    "porcion": "1 trozo mediano (aprox. 25 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "turrón marca Miski",
+    "porcion": "1 unidad",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "twistos tostaditas",
+    "porcion": "1 paquete chico de 40 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Uva",
+    "porcion": "1 taza de te",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "uvas",
+    "porcion": "1 taza de té (aprox. 150 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Vacío",
+    "porcion": "1 rodaja gruesa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vainillas",
+    "porcion": "1 unidad (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Vermouth",
+    "porcion": "1  vaso",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vermouth (promedio)",
+    "porcion": "1 vaso (aprox. 100 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vinagre",
+    "porcion": "1 cucharada de postre",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vino blanco",
+    "porcion": "1 vaso o copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Vino Blanco o Tinto",
+    "porcion": "1 vaso o copa",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vino jerez dulce",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vino tinto",
+    "porcion": "1 vaso o copa (aprox. 150 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "vitel thoné",
+    "porcion": "2 rodajas",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "whisky",
+    "porcion": "1 medida (aprox. 50 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Whisky Promedio",
+    "porcion": "1 medida",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yema de huevo",
+    "porcion": "1 unidad (aprox. 15 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur descremado",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur descremado con cereales",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur descremado con frutas",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur entero",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur entero con cereales",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "Yogur entero con frutas",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt bebible descremado",
+    "porcion": "1 vaso (aprox. 200 cm3)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado",
+    "porcion": "1 pote (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado con cereales",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado con frutas",
+    "porcion": "1 pote (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado con frutas y cereales",
+    "porcion": "1 pote (aprox. 183 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado con muesli",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt descremado Ser o Sancor",
+    "porcion": "1 unidad de 125 gr",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt entero",
+    "porcion": "1 pote (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt entero con cereales",
+    "porcion": "1 pote (aprox. 200 gr)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt entero con frutas",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt Ser lemon pie",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "yogurt Ser manzana",
+    "porcion": "1 pote",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "zanahoria",
+    "porcion": "1 unidad chica (aprox. 100 grs.)",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "zapallito redondo",
+    "porcion": "1 tza tamaño té en cocido",
+    "creditos": "",
+    "categoria": ""
+  },
+  {
+    "nombre": "zapallito zuchini",
+    "porcion": "1 unidad mediana",
+    "creditos": "",
+    "categoria": ""
+  }
+]
