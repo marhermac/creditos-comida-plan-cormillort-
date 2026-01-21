@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#dataTable tbody");
 
   // Cargar CSV
-  fetch("creditos_alimentos.csv")
+  fetch("./alimentos.json")
     .then(res => res.text())
     .then(texto => {
       const lineas = texto.trim().split("\n");
