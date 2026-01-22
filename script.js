@@ -36,16 +36,24 @@ input.addEventListener("input", () => {
 
   estado.textContent = `Resultados encontrados: ${encontrados.length}`;
 
-  encontrados.forEach(a => {
-    const li = document.createElement("li");
+ 
+encontrados.forEach(a => {
+  const li = document.createElement("li");
 
-    li.innerHTML = `
-      <a href="creditos/${a.id}.html">
-        <strong>${a.nombre}</strong><br>
-        <span>${a.porcion || ""}</span>
-      </a>
-    `;
+  const clase = a.color ? a.color : "sin-dato";
+  const creditosTexto = a.creditos_por_porcion !== null
+    ? `${a.creditos_por_porcion} créditos`
+    : "Sin dato";
 
-    resultados.appendChild(li);
-  });
+  li.innerHTML = `
+    <a href="creditos/${a.id}.html" class="item">
+      <div class="nombre">${a.nombre}</div>
+      <div class="porcion">${a.porcion || ""}</div>
+      <div class="creditos ${clase}">
+        ${creditosTexto}
+      </div>
+    </a>
+  `;
+
+  resultados.appendChild(li);
 });
