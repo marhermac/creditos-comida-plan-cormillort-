@@ -49,4 +49,3 @@ input.addEventListener("input", () => {
     resultados.appendChild(li);
   });
 });
-
