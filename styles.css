@@ -63,3 +63,18 @@ a {
   font-size: 13px;
   color: #333;
 }
+body.calidad-verde {
+  background-color: #eafaf1;
+}
+
+body.calidad-amarillo {
+  background-color: #fff9e6;
+}
+
+body.calidad-rojo {
+  background-color: #fdecea;
+}
+
+body.calidad-sin-dato {
+  background-color: #f4f6f7;
+}
