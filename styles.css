@@ -26,3 +26,40 @@ a {
   color: #0066cc;
   text-decoration: none;
 }
+.linea-calidad {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Colores */
+.dot.verde {
+  background-color: #28a745;
+}
+
+.dot.amarillo {
+  background-color: #ffc107;
+}
+
+.dot.rojo {
+  background-color: #dc3545;
+}
+
+.dot.sin-dato {
+  background-color: #6c757d;
+}
+
+.creditos-texto {
+  margin-top: 6px;
+  font-size: 13px;
+  color: #333;
+}
