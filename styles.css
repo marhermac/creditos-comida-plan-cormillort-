@@ -105,3 +105,44 @@ body.calidad-sin-dato {
     width: 100%;
   }
 }
+/* === GRAFICO IMPACTO GLUCEMICO === */
+
+.grafico {
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 12px;
+  margin-top: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.grafico h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.barra {
+  height: 32px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.barra.verde {
+  background-color: #2ecc71;
+  width: 40%;
+}
+
+.barra.amarillo {
+  background-color: #f1c40f;
+  width: 65%;
+  color: #333;
+}
+
+.barra.rojo {
+  background-color: #e74c3c;
+  width: 90%;
+}
