@@ -20,6 +20,11 @@ template = """<!DOCTYPE html>
 <body class="calidad-{calidad_clase}">
 <header>
   <h1>{nombre}</h1>
+
+  <!-- BLOQUE PUBLICITARIO ARTICULO -->
+  <div class="ad ad-articulo">
+    Espacio publicitario
+  </div>
 </header>
 
 <main>
