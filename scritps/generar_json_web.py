@@ -64,6 +64,34 @@ if not dfs:
 # UNIFICAR DATA
 # =========================
 df_final = pd.concat(dfs, ignore_index=True)
+# =========================
+# LEYENDA INFORMATIVA
+# =========================
+LEYENDA_HTML = """
+<div class="leyenda">
+  <small>
+    📌 <strong>Información importante:</strong><br>
+    Los datos nutricionales provienen de bases públicas oficiales
+    (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
+
+    Los créditos alimentarios se calcularon según el
+    <em>Sistema C del Dr. Alberto Cormillot</em>, utilizando porciones estándar
+    y valores promedio.<br><br>
+
+    <strong>Los valores son orientativos</strong> y no reemplazan
+    el asesoramiento de un profesional de la salud.
+    Ante cualquier duda, consulte con su médico o nutricionista.
+  </small>
+</div>
+"""
+
+df_final["leyenda"] = LEYENDA_HTML
+
+# =========================
+# EXPORTAR JSON
+# =========================
+json_salida = SALIDA / "alimentos.json"
+
 
 # =========================
 # EXPORTAR JSON
