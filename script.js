@@ -46,15 +46,30 @@ input.addEventListener("input", () => {
       ? `Créditos por porción: ${a.creditos_por_porcion}`
       : "Créditos: sin dato";
 
-    li.innerHTML = `
-      <a href="creditos/${a.id}.html" class="item">
-        <div class="nombre">${a.nombre}</div>
-        <div class="porcion">${a.porcion || ""}</div>
+   li.innerHTML = `
+  <h3>${alimento.Alimento}</h3>
 
-        <div class="linea-calidad">
-          <span class="dot ${claseColor}"></span>
-          <span class="texto-calidad">${a.calidad || "Sin dato"}</span>
-        </div>
+  <p><strong>Porción:</strong> ${alimento.PORCION}</p>
+  <p><strong>Créditos por porción:</strong> ${alimento.creditos_por_porcion}</p>
+  <p><strong>Créditos cada 100 g:</strong> ${alimento.creditos_cada_100g}</p>
+
+  <div class="leyenda">
+    <small>
+      📌 <strong>Información importante:</strong><br>
+      Los datos nutricionales provienen de bases públicas oficiales
+      (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
+
+      Los créditos alimentarios se calcularon según el
+      <em>Sistema C del Dr. Alberto Cormillot</em>, utilizando porciones estándar
+      y valores promedio.<br><br>
+
+      <strong>Los valores son orientativos</strong> y no reemplazan
+      el asesoramiento de un profesional de la salud.
+      Ante cualquier duda, consulte con su médico o nutricionista.
+    </small>
+  </div>
+`;
+
 
         <div class="creditos-texto">${creditosTexto}</div>
       </a>
