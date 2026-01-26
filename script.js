@@ -63,3 +63,25 @@ input.addEventListener("input", () => {
     resultados.appendChild(li);
   });
 });
+document.addEventListener("DOMContentLoaded", () => {
+  const leyenda = document.getElementById("leyenda-nutricional");
+
+  if (leyenda) {
+    leyenda.innerHTML = `
+      <strong>📌 Información importante</strong><br><br>
+      Los datos nutricionales presentados en esta página se obtienen de
+      bases públicas oficiales (ArgenFood y otras fuentes reconocidas) y
+      fueron procesados para su uso informativo.<br><br>
+
+      Los créditos alimentarios se calcularon según el
+      <em>Sistema C del Dr. Alberto Cormillot</em>, en base a porciones
+      estándar y valores promedio.<br><br>
+
+      <strong>Estos valores son orientativos</strong> y no reemplazan
+      el asesoramiento de un profesional de la salud.
+      Ante cualquier duda o condición particular,
+      consulte con su médico o nutricionista.
+    `;
+  }
+});
+
