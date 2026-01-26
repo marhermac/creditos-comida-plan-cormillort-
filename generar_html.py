@@ -1,6 +1,25 @@
 import json
 import os
 
+LEYENDA_HTML = """
+<div class="leyenda">
+  <small>
+    📌 <strong>Información importante:</strong><br>
+    Los datos nutricionales provienen de bases públicas oficiales
+    (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
+
+    Los créditos alimentarios se calcularon según el
+    <em>Sistema C del Dr. Alberto Cormillot</em>,
+    utilizando porciones estándar y valores promedio.<br><br>
+
+    <strong>Los valores son orientativos</strong> y no reemplazan
+    el asesoramiento de un profesional de la salud.
+    Ante cualquier duda, consulte con su médico o nutricionista.
+  </small>
+</div>
+"""
+
+
 # Crear carpeta creditos si no existe
 os.makedirs("creditos", exist_ok=True)
 
@@ -33,6 +52,8 @@ template = """<!DOCTYPE html>
   <p><strong>Créditos cada 100 g:</strong> {creditos_100g}</p>
   <p><strong>Calidad del alimento:</strong> {calidad}</p>
 
+{leyenda}
+
   <p>
     <a href="../index.html">⬅ Volver al buscador de alimentos</a>
   </p>
@@ -55,9 +76,11 @@ for item in alimentos:
     )
 
     html = template.format(
-        **item,
-        calidad_clase=calidad_clase
-    )
+    **item,
+    calidad_clase=calidad_clase,
+    leyenda=LEYENDA_HTML
+)
+
 
     filename = f"creditos/{item['id']}.html"
     with open(filename, "w", encoding="utf-8") as f:
