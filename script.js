@@ -76,3 +76,4 @@ encontrados.forEach(a => {
 
   resultados.appendChild(li);
 });
+});
