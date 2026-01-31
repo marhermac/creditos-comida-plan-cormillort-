@@ -184,3 +184,9 @@ body.calidad-sin-dato {
   font-size: 14px;
   color: #666;
 }
+.aviso-legal {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: #555;
+  text-align: center;
+}
